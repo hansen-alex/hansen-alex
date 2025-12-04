@@ -6,9 +6,6 @@
 <a href="mailto:hansen.alex@telia.com">hansen.alex@telia.com</a>
 </p>
 <p align="left">
-+4672 399 01 37 (I use do not disturb a lot, so shoot me an SMS if I don't answer)
-</p>
-<p align="left">
 <a href="https://linkedin.com/in/hansen-alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h-a" height="30" width="40" /></a>
 </p>
 
